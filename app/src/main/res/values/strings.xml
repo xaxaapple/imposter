@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">imposter</string>
+    <string name="widget_desc">Выбросить иконку</string>
+    <string name="back">Иконка вернулась</string>
+    <string name="missing">MAX (ru.oneme.app) не найден ни в основном профиле, ни в Папке Knox</string>
+    <string name="open_in_knox">Выберите MAX внутри Папки Knox</string>
+</resources>
